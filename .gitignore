@@ -1,1 +1,3 @@
 ignore-este-arquivo
+*.log
+log/
