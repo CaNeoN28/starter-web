@@ -2,10 +2,10 @@
 
 Seja bem vindo ao Starter Web
 
-## Introduction
+## Introdução
 
-## Purpose
+Repositório simples para aprendizado com o git 
 
-## Deployement
+## Propósito
 
-## How to contribute
+## Desenvolvimento
