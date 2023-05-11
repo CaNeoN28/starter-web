@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 Seja bem vindo ao Starter Web
+Projeto para aprendizado com o GIT
 
 ## Introdução
 
