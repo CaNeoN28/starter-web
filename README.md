@@ -10,5 +10,8 @@ Repositório simples para aprendizado com o git
 
 ## Desenvolvimento
 
+## Como contribuir
+Faça um fork do repositório e então faça uma merge request
+
 ## Copyright
 Copyright 2022
