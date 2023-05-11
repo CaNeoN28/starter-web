@@ -8,6 +8,8 @@ Repositório simples para aprendizado com o git
 
 ## Propósito
 
+Aprender o básico do GIT
+
 ## Desenvolvimento
 
 ## Como contribuir
