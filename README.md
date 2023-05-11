@@ -12,6 +12,8 @@ Aprender o básico do GIT
 
 ## Desenvolvimento
 
+Desenvolvido durante o estágio
+
 ## Como contribuir
 Faça um fork do repositório e então faça uma merge request
 
