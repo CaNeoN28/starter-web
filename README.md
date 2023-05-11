@@ -19,3 +19,5 @@ Faça um fork do repositório e então faça uma merge request
 
 ## Copyright
 Copyright 2022
+Todos os direitos reservados"
+
